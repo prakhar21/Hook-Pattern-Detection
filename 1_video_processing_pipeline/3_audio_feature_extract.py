@@ -45,13 +45,14 @@ class AudioFeatures:
         audio_features = {}
         for idx, file in enumerate(self.audio_files):
             f_name = file.split('/')[-1].split('.')[0].replace('_30sec','')
-            y, sr = librosa.load(file)
+            y, sr = librosa.load(file, sr=16000)
             
             # FEATURE 1: Frame-wise RMS energy/intensity
             rms = librosa.feature.rms(y=y)[0]
             audio_features[f_name] = {"intensity":{"mean": round(float(np.mean(rms)), 4), 
                                                     "max": round(float(np.max(rms)), 4), 
-                                                    "min": round(float(np.min(rms)), 4)
+                                                    "min": round(float(np.min(rms)), 4),
+                                                    "variance": round(float(np.std(rms), 4))
                                                 }
                                      }
 
@@ -60,7 +61,10 @@ class AudioFeatures:
             tempo, _ = librosa.beat.beat_track(onset_envelope=onset_env, sr=sr)
             audio_features[f_name]["speech_rate"] = round(float(tempo[0]), 4)
             
-            # FEATURE 3: Music Presence
+            # FEATURE 3: Pitch Variance
+            f0 = librosa.yin(y, fmin=50, fmax=300, sr=sr)
+            audio_features[f_name]["pitch_var"] = round(float(np.std(f0)))
+
             #music_found = self.detect_music_presence(y, sr)
             #audio_features[f_name]["music_present"] = round(float(music_found), 4)
             #print (audio_features)
