@@ -44,7 +44,7 @@ class VisualFeatures:
         cuts = [(start.get_seconds(), end.get_seconds()) for start, end in scene_list]
         video_manager.release()
         
-        return cuts, len(cuts)
+        return cuts, len(cuts), len(cuts)/30.0
     
     
     def _remove_duplicate_text_overlays(self, text_overlays:list) -> dict:
@@ -84,7 +84,7 @@ class VisualFeatures:
             frame_idx += 1
         cap.release()
         text_overlays = self._remove_duplicate_text_overlays(overlays)
-        return text_overlays
+        return text_overlays, len(text_overlays)/30.0
     
     
     def extract_visual_features(self):
@@ -92,13 +92,13 @@ class VisualFeatures:
         for idx, video in enumerate(self.videos):
             f_name = video.split('/')[-1].split('_30sec')[0]
             
-            text_overlays = self.detect_text_overlays(video)
-            cuts, total_cuts = self.detect_cuts(video)
+            text_overlays, text_overlays_freq = self.detect_text_overlays(video)
+            cuts, total_cuts, cuts_freq = self.detect_cuts(video)
             
             visual_feat[f_name] = {'cuts': 
-                                           {'cut_details': cuts, 'total_cuts': total_cuts},
+                                           {'cut_details': cuts, 'total_cuts': total_cuts, 'cut_freq': cuts_freq},
                                    'text_overlays':
-                                           {'overlay_details': text_overlays}
+                                           {'overlay_details': text_overlays, 'text_overlays_freq':text_overlays_freq}
                                 }
         return visual_feat
             
