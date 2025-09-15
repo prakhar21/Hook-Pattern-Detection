@@ -24,6 +24,7 @@ class AudioFeatures:
     
     
     def detect_music_presence(self, y, sr, threshold=0.2):    
+        """Detects the presence of background music in the video"""
         # Harmonic-percussive source separation
         y_harmonic, y_percussive = librosa.effects.hpss(y)
     
@@ -38,6 +39,9 @@ class AudioFeatures:
     
     
     def extract_audio_features(self):
+        """
+        Extracts the features from audio (.wav) such as energy, speech rate.
+        """
         audio_features = {}
         for idx, file in enumerate(self.audio_files):
             f_name = file.split('/')[-1].split('.')[0].replace('_30sec','')
