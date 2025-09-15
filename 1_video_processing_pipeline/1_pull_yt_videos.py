@@ -82,13 +82,17 @@ class YTDownloader:
     
     
     def download_video(self, successful_videos:dict) -> None:
+        """
+        Downloads the First 30 sec of videos based on their video ids. Videos are downloaded in 480p
+        that are greater than 60 sec and less than 2hrs of duration
+        """
         print (f'Total successful videos: {len(successful_videos)}')
         print ('\n\nStarting to Download Video...')
         for k, _ in successful_videos.items():
             video_url = f'https://www.youtube.com/watch?v={k}'
             try:
                 yt = YouTube(video_url, on_progress_callback=on_progress)
-                if yt.length > 60 and yt.length <= 7200: #exclude shorts and content>=2hr
+                if yt.length > 60 and yt.length <= 7200: #exclude shorts and content>2hr
                     stream = yt.streams.filter(file_extension="mp4", progressive=True)
     
                     for idx,i in enumerate(stream):
@@ -139,6 +143,10 @@ class YTDownloader:
         return total_seconds
     
     def get_video_metadata(self, video_details:dict) -> dict:
+        """
+        Download meta-data per video. Meta data include engagement measures and duration
+        of the video (in sec)
+        """
         counter = 0
         for k, v in video_details.items():
             try:
@@ -179,7 +187,7 @@ class YTDownloader:
             
     
 
-api_key = "AIzaSyCf6Vq6BBpx_BRldyjfro90vlvXtAmTVyU"
+api_key = "<INSERT YT API KEY>"
 query = "business podcasts"
 video_count = 1000
 
