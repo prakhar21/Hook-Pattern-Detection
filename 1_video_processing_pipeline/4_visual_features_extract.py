@@ -33,6 +33,7 @@ class VisualFeatures:
     
     
     def detect_cuts(self, video:str, threshold:float=30.0):
+        """Extract cuts from the video"""
         video_manager = VideoManager([video])
         scene_manager = SceneManager()
         scene_manager.add_detector(ContentDetector(threshold=threshold))
@@ -66,6 +67,7 @@ class VisualFeatures:
 
     
     def detect_text_overlays(self,  video:str, sample_rate:int=30) -> dict:
+        """Extract text overlays from the video"""
         cap = cv2.VideoCapture(video)
         reader = easyocr.Reader(['en'])
         overlays = []
@@ -88,6 +90,7 @@ class VisualFeatures:
     
     
     def extract_visual_features(self):
+        """Extract visual features like text overlays, scene cuts in the video"""
         visual_feat = {}
         for idx, video in enumerate(self.videos):
             f_name = video.split('/')[-1].split('_30sec')[0]
