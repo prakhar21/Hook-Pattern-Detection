@@ -19,10 +19,10 @@ _Analyze the first 30 seconds of successful videos to identify hook patterns tha
     3. Apply 2 level of grouping on the extracted text 1> group by time 2> group by text.
 
 __Possible Enhancements that could have been done in Deliverable #1__
-    1. The extracted engagement measures are just proxies. There are more stronger signals like avg. view duration %, drop rate in first N seconds, and more that are private to creators and are available via Analytics API.
-    2. More visual features such as visual loudness by analysing brightness/scene intensity could also be beneficial.
-    3. Analysing close-up vs wide shot based on Face detection bounding box ratio.
-    4. Analysing Face expressiveness with markers like nodding, hand gestures, and smiles can be a really good feature of engaging video.
-    5. Understanding Signal-to-noise ratio. Low SNR makes it hard to listen.
+1. The extracted engagement measures are just proxies. There are more stronger signals like avg. view duration %, drop rate in first N seconds, and more that are private to creators and are available via Analytics API.
+2. More visual features such as visual loudness by analysing brightness/scene intensity could also be beneficial.
+3. Analysing close-up vs wide shot based on Face detection bounding box ratio.
+4. Analysing Face expressiveness with markers like nodding, hand gestures, and smiles can be a really good feature of engaging video.
+5. Understanding Signal-to-noise ratio. Low SNR makes it hard to listen.
 
 
