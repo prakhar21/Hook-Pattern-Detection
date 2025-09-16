@@ -35,3 +35,9 @@ Generating Header for Cluster #0 -  **"Expert Authority"**
 Generating Header for Cluster #3 -  **"Expert Authority"**
 
 ["Hello, I'm Caroline Steele. This is the BBC World Service and welcome to the engineers. This year we're at the", "Artificial intelligence or AI, it has been pitched as capitalism's new golden goos, generative AI, we're supposed to root all,", "So, I'm going to explain what artificial intelligence is and I want this to be a bit interactive"]
+
+
+## **Identify statistical correlations between hook elements and success** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/3_Pattern_Discovery/3_hookelements_success.py)
+* Correlation matrix is saved in __corr.png__
+* Correlation is calculated between hook elements and life time views (proxy to succcess)
+
