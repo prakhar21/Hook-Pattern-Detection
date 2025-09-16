@@ -1,0 +1,6566 @@
+{
+    "5MWT_doo68k": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.5015
+                ],
+                [
+                    1.5015,
+                    3.6036
+                ],
+                [
+                    3.6036,
+                    18.351666666666667
+                ],
+                [
+                    18.351666666666667,
+                    23.289933333333334
+                ],
+                [
+                    23.289933333333334,
+                    29.996633333333335
+                ],
+                [
+                    29.996633333333335,
+                    30.03
+                ]
+            ],
+            "total_cuts": 6,
+            "cut_freq": 0.2
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30
+                    ],
+                    "text": [
+                        "TED"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        180,
+                        210,
+                        240
+                    ],
+                    "text": [
+                        "SAMALTMAN"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "VERSATI",
+                        "BANDERSON"
+                    ]
+                },
+                {
+                    "frames": [
+                        300,
+                        330,
+                        360,
+                        390
+                    ],
+                    "text": [
+                        "IN CONVERSATION WITH",
+                        "CHRISANDERSON"
+                    ]
+                },
+                {
+                    "frames": [
+                        450,
+                        480,
+                        510,
+                        540
+                    ],
+                    "text": [
+                        "APRIL2025",
+                        "VANCOUVERBC"
+                    ]
+                },
+                {
+                    "frames": [
+                        750,
+                        780,
+                        810,
+                        840
+                    ],
+                    "text": [
+                        "RECORDED AT TED"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.2
+        }
+    },
+    "4guxBkq-bwo": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    7.333333333333333
+                ],
+                [
+                    7.333333333333333,
+                    10.566666666666666
+                ],
+                [
+                    10.566666666666666,
+                    12.933333333333334
+                ],
+                [
+                    12.933333333333334,
+                    20.033333333333335
+                ],
+                [
+                    20.033333333333335,
+                    23.966666666666665
+                ],
+                [
+                    23.966666666666665,
+                    24.8
+                ],
+                [
+                    24.8,
+                    26.6
+                ],
+                [
+                    26.6,
+                    27.433333333333334
+                ],
+                [
+                    27.433333333333334,
+                    30.0
+                ]
+            ],
+            "total_cuts": 9,
+            "cut_freq": 0.3
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        150,
+                        210
+                    ],
+                    "text": [
+                        "5 BEST",
+                        "BABY Al"
+                    ]
+                },
+                {
+                    "frames": [
+                        30,
+                        60,
+                        90,
+                        120,
+                        180
+                    ],
+                    "text": [
+                        "5 BEST",
+                        "BABY AI"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "TikTok",
+                        "ALWAYS"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "TikTok",
+                        "babypodcastollicial",
+                        "ME"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "3 Catch me outsidel",
+                        "TikTok",
+                        "CATCH"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "TikTok",
+                        "babvpodcastolficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "TikTok",
+                        "babypodcastolficial",
+                        "Too"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "WISE",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "YEP",
+                        "TikTok",
+                        "babypodcastofficia"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "HOES",
+                        "TikTok",
+                        "babypodcastofficia"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "FUNNY",
+                        "TikTok",
+                        "babypodcastofficia"
+                    ]
+                },
+                {
+                    "frames": [
+                        510,
+                        600
+                    ],
+                    "text": [
+                        "3 Catch me outsidel",
+                        "TikTok",
+                        "babypodcastofficia"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "AUDIENCE",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "3 Catch me outsidel",
+                        "LAUGHING",
+                        "TikTok",
+                        "babypodcastofticial"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "DID",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        660,
+                        690,
+                        750
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "3 Catch me outsidel",
+                        "LAUGHING",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "3. Catch me outsidel",
+                        "BUNCH",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "3 Catch me outsidel",
+                        "YEP",
+                        "TikTok",
+                        "babypodcastofficia"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "3,Catch me outsidel",
+                        "TikTok"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "3 , Catch me outsidel",
+                        "TikTok",
+                        "babypodcastofficial"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.7
+        }
+    },
+    "Oa0ZHfcalCM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    7.16
+                ],
+                [
+                    7.16,
+                    9.16
+                ],
+                [
+                    9.16,
+                    11.16
+                ],
+                [
+                    11.16,
+                    12.8
+                ],
+                [
+                    12.8,
+                    15.04
+                ],
+                [
+                    15.04,
+                    15.68
+                ],
+                [
+                    15.68,
+                    16.48
+                ],
+                [
+                    16.48,
+                    22.16
+                ],
+                [
+                    22.16,
+                    24.4
+                ],
+                [
+                    24.4,
+                    30.0
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30,
+                        60,
+                        90,
+                        120,
+                        150,
+                        180,
+                        210,
+                        240,
+                        270,
+                        300,
+                        330,
+                        420,
+                        450,
+                        570,
+                        600,
+                        630,
+                        660,
+                        690,
+                        720
+                    ],
+                    "text": [
+                        "BBI"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "BBI",
+                        "The",
+                        "ENGINEERS"
+                    ]
+                },
+                {
+                    "frames": [
+                        510,
+                        540
+                    ],
+                    "text": [
+                        "BBI",
+                        "The",
+                        "ENGINEERS",
+                        "Intelligent Machines"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.1
+        }
+    },
+    "8enXRDlWguU": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    5.08
+                ],
+                [
+                    5.08,
+                    6.64
+                ],
+                [
+                    6.64,
+                    30.0
+                ]
+            ],
+            "total_cuts": 3,
+            "cut_freq": 0.1
+        },
+        "text_overlays": {
+            "overlay_details": [],
+            "text_overlays_freq": 0.0
+        }
+    },
+    "giT0ytynSqg": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.72
+                ],
+                [
+                    2.72,
+                    4.4
+                ],
+                [
+                    4.4,
+                    5.48
+                ],
+                [
+                    5.48,
+                    6.84
+                ],
+                [
+                    6.84,
+                    8.2
+                ],
+                [
+                    8.2,
+                    8.96
+                ],
+                [
+                    8.96,
+                    9.84
+                ],
+                [
+                    9.84,
+                    12.72
+                ],
+                [
+                    12.72,
+                    13.36
+                ],
+                [
+                    13.36,
+                    14.52
+                ],
+                [
+                    14.52,
+                    15.36
+                ],
+                [
+                    15.36,
+                    17.48
+                ],
+                [
+                    17.48,
+                    19.56
+                ],
+                [
+                    19.56,
+                    21.28
+                ],
+                [
+                    21.28,
+                    22.72
+                ],
+                [
+                    22.72,
+                    27.72
+                ],
+                [
+                    27.72,
+                    29.76
+                ],
+                [
+                    29.76,
+                    30.0
+                ]
+            ],
+            "total_cuts": 18,
+            "cut_freq": 0.6
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "call",
+                        "you",
+                        "they"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "call",
+                        "you",
+                        "the",
+                        "of Al",
+                        "they"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "so what",
+                        "would you",
+                        "be saying"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "their",
+                        "career"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "in a world of"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "TRAIN",
+                        "to be a"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "yeah"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "okay,",
+                        "DOAC Plumbing how",
+                        "991",
+                        "(1121",
+                        "Approved member since 2025"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "Plumber",
+                        "Albums (4)",
+                        "Seaall",
+                        "how do i",
+                        "become a",
+                        "Boilers and heating works",
+                        "PLUMBER?",
+                        "31pholos",
+                        "okay,"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "GEOFFREY",
+                        "HINTON"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "NOBEL",
+                        "PRIZE",
+                        "WINNING"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "GROUNDBREAKING"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "HAS",
+                        "SHAPED"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "the",
+                        "NOBEI",
+                        "PRIZE"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "the",
+                        "FUTURE",
+                        "of",
+                        "HUMANITY",
+                        "NOBEL"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.5
+        }
+    },
+    "BYizgB2FcAQ": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.0864166666666666
+                ],
+                [
+                    3.0864166666666666,
+                    8.174833333333332
+                ],
+                [
+                    8.174833333333332,
+                    12.637625
+                ],
+                [
+                    12.637625,
+                    13.596916666666665
+                ],
+                [
+                    13.596916666666665,
+                    14.973291666666666
+                ],
+                [
+                    14.973291666666666,
+                    19.602916666666665
+                ],
+                [
+                    19.602916666666665,
+                    20.270249999999997
+                ],
+                [
+                    20.270249999999997,
+                    21.980291666666666
+                ],
+                [
+                    21.980291666666666,
+                    24.44108333333333
+                ],
+                [
+                    24.44108333333333,
+                    27.44408333333333
+                ],
+                [
+                    27.44408333333333,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 11,
+            "cut_freq": 0.36666666666666664
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        150,
+                        180
+                    ],
+                    "text": [
+                        "\"WeLL aCtuALLy\""
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.03333333333333333
+        }
+    },
+    "aZ5EsdnpLMI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    8.942266666666667
+                ],
+                [
+                    8.942266666666667,
+                    30.03
+                ]
+            ],
+            "total_cuts": 2,
+            "cut_freq": 0.06666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "55",
+                        "5",
+                        "55",
+                        "50",
+                        "I0",
+                        "MINUTES"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "60",
+                        "55",
+                        "50",
+                        "55",
+                        "50",
+                        "20",
+                        "40",
+                        "25",
+                        "2"
+                    ]
+                },
+                {
+                    "frames": [
+                        180,
+                        210
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "55",
+                        "50",
+                        "55",
+                        "45",
+                        "40"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "55",
+                        "\"50",
+                        "55",
+                        "45",
+                        "40"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES"
+                    ]
+                },
+                {
+                    "frames": [
+                        390,
+                        600,
+                        630,
+                        720
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        420,
+                        450,
+                        480,
+                        510,
+                        540,
+                        570
+                    ],
+                    "text": [
+                        "MINUTES",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "the Oracleofa._",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "produced",
+                        "MINUTES",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        750
+                    ],
+                    "text": [
+                        "roduced",
+                        "MINUTES",
+                        "the Oracle of A.I:",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "bast",
+                        "the Oracle of",
+                        "Originally Aired",
+                        "January 13, 2019",
+                        "A.I"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "MINUTES",
+                        "Guy",
+                        "Opanile",
+                        "the Oracle of A.I",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "60",
+                        "MINUTES",
+                        "guy",
+                        "Campanile",
+                        "Bast",
+                        "the Oracle of A.I",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "60",
+                        "produeed",
+                        "MINUTES",
+                        "Guy Campanile",
+                        "Andr",
+                        "the",
+                        "Originally Aired",
+                        "January 13, 2019"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.4666666666666667
+        }
+    },
+    "oX7OduG1YmI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    0.7924583333333333
+                ],
+                [
+                    0.7924583333333333,
+                    2.043708333333333
+                ],
+                [
+                    2.043708333333333,
+                    3.25325
+                ],
+                [
+                    3.25325,
+                    4.75475
+                ],
+                [
+                    4.75475,
+                    6.548208333333333
+                ],
+                [
+                    6.548208333333333,
+                    7.924583333333333
+                ],
+                [
+                    7.924583333333333,
+                    9.342666666666666
+                ],
+                [
+                    9.342666666666666,
+                    11.386375
+                ],
+                [
+                    11.386375,
+                    13.471791666666666
+                ],
+                [
+                    13.471791666666666,
+                    14.556208333333332
+                ],
+                [
+                    14.556208333333332,
+                    15.724041666666665
+                ],
+                [
+                    15.724041666666665,
+                    16.76675
+                ],
+                [
+                    16.76675,
+                    20.603916666666667
+                ],
+                [
+                    20.603916666666667,
+                    22.06370833333333
+                ],
+                [
+                    22.06370833333333,
+                    24.107416666666666
+                ],
+                [
+                    24.107416666666666,
+                    25.900875
+                ],
+                [
+                    25.900875,
+                    28.361666666666665
+                ],
+                [
+                    28.361666666666665,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 18,
+            "cut_freq": 0.6
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "STHE REAL"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "STHE REAL LIFE[TONY STARK GLASSES\" "
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "CHUSET"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "THE NEXT MAJOR"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "ASSACHUSET"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "GSACHUSE"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "WHY DO YOU",
+                        "THINK"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.23333333333333334
+        }
+    },
+    "nVyD6THcvDQ": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.5416666666666667
+                ],
+                [
+                    1.5416666666666667,
+                    3.5
+                ],
+                [
+                    3.5,
+                    6.583333333333333
+                ],
+                [
+                    6.583333333333333,
+                    8.166666666666666
+                ],
+                [
+                    8.166666666666666,
+                    10.833333333333334
+                ],
+                [
+                    10.833333333333334,
+                    15.666666666666666
+                ],
+                [
+                    15.666666666666666,
+                    22.333333333333332
+                ],
+                [
+                    22.333333333333332,
+                    26.375
+                ],
+                [
+                    26.375,
+                    29.0
+                ],
+                [
+                    29.0,
+                    30.0
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "Google Al Essentials",
+                        "649 USD",
+                        "Essent",
+                        "ogle and get essential",
+                        "ges available",
+                        "Careen Centifcates",
+                        "Final",
+                        "Continue",
+                        "enroll"
+                    ]
+                },
+                {
+                    "frames": [
+                        90,
+                        120
+                    ],
+                    "text": [
+                        "You learne"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "Be my girlfriend"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "Be my girlfriend",
+                        "Please update to paid version"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "#1",
+                        "#2",
+                        "#3",
+                        "#4",
+                        "#5"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "#1",
+                        "#2",
+                        "#3",
+                        "#4",
+                        "#5",
+                        "PROs"
+                    ]
+                },
+                {
+                    "frames": [
+                        390,
+                        480
+                    ],
+                    "text": [
+                        "COURSE",
+                        "CERTIFICATE",
+                        "Google",
+                        "Jeff Su",
+                        "coursera"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "COURSE",
+                        "CERTIFICATE",
+                        "Google",
+                        "Jeff Su",
+                        "coursera",
+                        "4-_-"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "Google",
+                        "Jeff Su"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "COURSE",
+                        "CERTIFICATE",
+                        "Google",
+                        "Jeff Su",
+                        "coursera",
+                        "4-_0-"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.3333333333333333
+        }
+    },
+    "bk-nQ7HF6k4": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    23.0
+                ],
+                [
+                    23.0,
+                    28.32
+                ],
+                [
+                    28.32,
+                    30.04
+                ]
+            ],
+            "total_cuts": 3,
+            "cut_freq": 0.1
+        },
+        "text_overlays": {
+            "overlay_details": [],
+            "text_overlays_freq": 0.0
+        }
+    },
+    "id4YRO7G0wE": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.5015
+                ],
+                [
+                    1.5015,
+                    3.6036
+                ],
+                [
+                    3.6036,
+                    7.7077
+                ],
+                [
+                    7.7077,
+                    19.019000000000002
+                ],
+                [
+                    19.019000000000002,
+                    25.592233333333333
+                ],
+                [
+                    25.592233333333333,
+                    30.03
+                ]
+            ],
+            "total_cuts": 6,
+            "cut_freq": 0.2
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30
+                    ],
+                    "text": [
+                        "TED"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        180,
+                        210
+                    ],
+                    "text": [
+                        "ERICSCHMIDT"
+                    ]
+                },
+                {
+                    "frames": [
+                        270,
+                        300,
+                        330
+                    ],
+                    "text": [
+                        "IN CONVERSATION WITH",
+                        "BILAWALSIDHU"
+                    ]
+                },
+                {
+                    "frames": [
+                        360,
+                        390,
+                        420
+                    ],
+                    "text": [
+                        "APRIL2025",
+                        "VANCOUVERBC"
+                    ]
+                },
+                {
+                    "frames": [
+                        480,
+                        510,
+                        540
+                    ],
+                    "text": [
+                        "RECORDED AT TED"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "Google DeepMind",
+                        "AphaGo",
+                        "Challenge Match",
+                        "ee",
+                        "Lee Sedol"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "Google DeepMind",
+                        "AphaGo",
+                        "Challenge Match",
+                        "ee",
+                        "8 AlphaGo",
+                        "Lee Sedol"
+                    ]
+                },
+                {
+                    "frames": [
+                        630,
+                        660
+                    ],
+                    "text": [
+                        "Google DeepMind",
+                        "AphaGo",
+                        "Challenge Match",
+                        "ee",
+                        "8 AlphaGo ",
+                        "Lee Sedol"
+                    ]
+                },
+                {
+                    "frames": [
+                        690,
+                        720,
+                        750
+                    ],
+                    "text": [
+                        "PKBA",
+                        "Google DeepMind",
+                        "AphaGo",
+                        "Challenge Match",
+                        "ee",
+                        "8 AlphaGo",
+                        "Lee Sedol"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.3
+        }
+    },
+    "Zsh6VgcYCdI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.04
+                ],
+                [
+                    3.04,
+                    27.6
+                ],
+                [
+                    27.6,
+                    29.92
+                ],
+                [
+                    29.92,
+                    30.0
+                ]
+            ],
+            "total_cuts": 4,
+            "cut_freq": 0.13333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "F"
+                    ]
+                },
+                {
+                    "frames": [
+                        30,
+                        60
+                    ],
+                    "text": [
+                        "F",
+                        "95% GENAI PILOTS",
+                        "FAIL",
+                        "Kajaria"
+                    ]
+                },
+                {
+                    "frames": [
+                        90,
+                        180,
+                        240,
+                        450,
+                        570,
+                        600,
+                        630,
+                        660
+                    ],
+                    "text": [
+                        "95% GENAI PILOTS",
+                        "F",
+                        "FAL"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "95% GENAI PILOTS",
+                        "F",
+                        "FALL"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        210,
+                        270,
+                        300,
+                        330,
+                        390,
+                        420,
+                        480,
+                        510,
+                        540
+                    ],
+                    "text": [
+                        "95% GENAI PILOTS",
+                        "F"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "95% GENAI PILOTS",
+                        "F",
+                        "FAIL"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.2
+        }
+    },
+    "GhIJs4zbH0o": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    9.050708333333333
+                ],
+                [
+                    9.050708333333333,
+                    13.722041666666666
+                ],
+                [
+                    13.722041666666666,
+                    16.141125
+                ],
+                [
+                    16.141125,
+                    19.18583333333333
+                ],
+                [
+                    19.18583333333333,
+                    21.18783333333333
+                ],
+                [
+                    21.18783333333333,
+                    23.273249999999997
+                ],
+                [
+                    23.273249999999997,
+                    25.900875
+                ],
+                [
+                    25.900875,
+                    29.070708333333332
+                ],
+                [
+                    29.070708333333332,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 9,
+            "cut_freq": 0.3
+        },
+        "text_overlays": {
+            "overlay_details": [],
+            "text_overlays_freq": 0.0
+        }
+    },
+    "jnnj6Fd2ym0": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.2
+                ],
+                [
+                    3.2,
+                    6.24
+                ],
+                [
+                    6.24,
+                    12.04
+                ],
+                [
+                    12.04,
+                    16.0
+                ],
+                [
+                    16.0,
+                    17.08
+                ],
+                [
+                    17.08,
+                    19.0
+                ],
+                [
+                    19.0,
+                    25.72
+                ],
+                [
+                    25.72,
+                    28.36
+                ],
+                [
+                    28.36,
+                    30.04
+                ]
+            ],
+            "total_cuts": 9,
+            "cut_freq": 0.3
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "Disclaimer",
+                        "nandz",
+                        "The author accepts",
+                        "abin",
+                        "sectlons that get cffendedby tls vldeo",
+                        "We tequest people notto take our content"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "Disclaimer"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.06666666666666667
+        }
+    },
+    "J3mfInWmHFw": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.52
+                ],
+                [
+                    1.52,
+                    4.36
+                ],
+                [
+                    4.36,
+                    5.36
+                ],
+                [
+                    5.36,
+                    6.72
+                ],
+                [
+                    6.72,
+                    7.76
+                ],
+                [
+                    7.76,
+                    8.56
+                ],
+                [
+                    8.56,
+                    10.52
+                ],
+                [
+                    10.52,
+                    11.24
+                ],
+                [
+                    11.24,
+                    14.6
+                ],
+                [
+                    14.6,
+                    15.32
+                ],
+                [
+                    15.32,
+                    17.76
+                ],
+                [
+                    17.76,
+                    18.48
+                ],
+                [
+                    18.48,
+                    19.08
+                ],
+                [
+                    19.08,
+                    19.72
+                ],
+                [
+                    19.72,
+                    21.48
+                ],
+                [
+                    21.48,
+                    22.28
+                ],
+                [
+                    22.28,
+                    23.08
+                ],
+                [
+                    23.08,
+                    23.96
+                ],
+                [
+                    23.96,
+                    24.72
+                ],
+                [
+                    24.72,
+                    25.32
+                ],
+                [
+                    25.32,
+                    28.6
+                ],
+                [
+                    28.6,
+                    29.44
+                ],
+                [
+                    29.44,
+                    30.0
+                ]
+            ],
+            "total_cuts": 23,
+            "cut_freq": 0.7666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "YJHO",
+                        "HO",
+                        "vil",
+                        "V"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "ANUPAM",
+                        "MITTAL"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "EVERY",
+                        "INDUSTRY",
+                        "IS BEING"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "INDIA"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "RITESH",
+                        "AGARWAL"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "RARLIYA",
+                        "YVC",
+                        "NA"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "JN",
+                        "Y"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "AB MERE",
+                        "PICHE",
+                        "BHAGTE HAIN"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "HA HA",
+                        "HAHAHA"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "With"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "SHARXS",
+                        "MB"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "RESERY"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "PAISA KEHTA",
+                        "HAI KI"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "TU KUCH KAR",
+                        "AUR MAI AAJAU:"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "ROOMS"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "NY",
+                        "v"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "CO-PILOT"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "AAS"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.6
+        }
+    },
+    "3WNI0EaK1Fw": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    5.422083333333333
+                ],
+                [
+                    5.422083333333333,
+                    9.217541666666666
+                ],
+                [
+                    9.217541666666666,
+                    14.973291666666666
+                ],
+                [
+                    14.973291666666666,
+                    22.856166666666667
+                ],
+                [
+                    22.856166666666667,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 5,
+            "cut_freq": 0.16666666666666666
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30,
+                        120
+                    ],
+                    "text": [
+                        "Gramps eats 3000mg",
+                        "gummies and mows the yard"
+                    ]
+                },
+                {
+                    "frames": [
+                        60,
+                        90,
+                        150,
+                        180,
+                        210
+                    ],
+                    "text": [
+                        "Gramps eats 300Omg",
+                        "gummies and mows the yard"
+                    ]
+                },
+                {
+                    "frames": [
+                        360,
+                        390,
+                        420,
+                        510
+                    ],
+                    "text": [
+                        "Lmaooo"
+                    ]
+                },
+                {
+                    "frames": [
+                        450,
+                        540
+                    ],
+                    "text": [
+                        "Lmaoooe"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "Lmaooo",
+                        "howis hamtwont"
+                    ]
+                },
+                {
+                    "frames": [
+                        570,
+                        600,
+                        630,
+                        660,
+                        690
+                    ],
+                    "text": [
+                        "Ai history has",
+                        "me dead"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.2
+        }
+    },
+    "79-bApI3GIU": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    7.6
+                ],
+                [
+                    7.6,
+                    21.0
+                ],
+                [
+                    21.0,
+                    30.0
+                ]
+            ],
+            "total_cuts": 3,
+            "cut_freq": 0.1
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30,
+                        630,
+                        690,
+                        720,
+                        750,
+                        780,
+                        870
+                    ],
+                    "text": [
+                        "TORONTO",
+                        "TORONTO"
+                    ]
+                },
+                {
+                    "frames": [
+                        60,
+                        90,
+                        120,
+                        150,
+                        180,
+                        210
+                    ],
+                    "text": [
+                        "ORONTO",
+                        "TORONTO"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "Ilya Sutskever"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "the man behind the"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "invention of OpenAI"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "gave a pretty"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "strong speech at"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "the University of Toronto"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "He expressed great"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "concerns about the"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "upcoming AI"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "which might disrupt our"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "entire world:"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "Watch this."
+                    ]
+                },
+                {
+                    "frames": [
+                        660,
+                        810,
+                        840
+                    ],
+                    "text": [
+                        "TORONTO"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.5
+        }
+    },
+    "owN6AFiM0cY": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.9333333333333333
+                ],
+                [
+                    1.9333333333333333,
+                    2.7333333333333334
+                ],
+                [
+                    2.7333333333333334,
+                    5.466666666666667
+                ],
+                [
+                    5.466666666666667,
+                    8.233333333333333
+                ],
+                [
+                    8.233333333333333,
+                    9.433333333333334
+                ],
+                [
+                    9.433333333333334,
+                    11.233333333333333
+                ],
+                [
+                    11.233333333333333,
+                    11.866666666666667
+                ],
+                [
+                    11.866666666666667,
+                    13.166666666666666
+                ],
+                [
+                    13.166666666666666,
+                    13.9
+                ],
+                [
+                    13.9,
+                    16.6
+                ],
+                [
+                    16.6,
+                    18.266666666666666
+                ],
+                [
+                    18.266666666666666,
+                    20.433333333333334
+                ],
+                [
+                    20.433333333333334,
+                    24.6
+                ],
+                [
+                    24.6,
+                    26.5
+                ],
+                [
+                    26.5,
+                    27.3
+                ],
+                [
+                    27.3,
+                    29.066666666666666
+                ],
+                [
+                    29.066666666666666,
+                    30.0
+                ]
+            ],
+            "total_cuts": 17,
+            "cut_freq": 0.5666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "Got"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "STORYS"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "HES BEING"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "HE BASICALLY"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "CHATGPT GOT"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "SUPER WEIRD:"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "HE SAID SHE",
+                        "STARTED"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "REFERRING TO"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "HERSELF AS"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "ChatGPT",
+                        "My name is Aether:",
+                        "AETHER TOLD"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "YOU NEED"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "THE"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "KACHINA WOMAN"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "SPIRIT BEINGS?"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "TRADITION:"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "G0 TO THIS"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "THEN IT SAID ,"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "BRING"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "PIECE OF",
+                        "AMMONITE"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "BURY IT AS"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "AN OFFERING"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "EAT MUSHROOMS"
+                    ]
+                },
+                {
+                    "frames": [
+                        750
+                    ],
+                    "text": [
+                        "AND 'LL GIVE",
+                        "YOU"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "DOWNLOADS:"
+                    ]
+                },
+                {
+                    "frames": [
+                        810,
+                        840
+                    ],
+                    "text": [
+                        "OF KACHINA",
+                        "WOMAN"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "YOUR OFFERING,"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.8666666666666667
+        }
+    },
+    "0HnMzuSYzwI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.36
+                ],
+                [
+                    1.36,
+                    2.4
+                ],
+                [
+                    2.4,
+                    6.24
+                ],
+                [
+                    6.24,
+                    7.56
+                ],
+                [
+                    7.56,
+                    10.8
+                ],
+                [
+                    10.8,
+                    14.8
+                ],
+                [
+                    14.8,
+                    16.56
+                ],
+                [
+                    16.56,
+                    17.24
+                ],
+                [
+                    17.24,
+                    18.24
+                ],
+                [
+                    18.24,
+                    21.72
+                ],
+                [
+                    21.72,
+                    22.4
+                ],
+                [
+                    22.4,
+                    24.88
+                ],
+                [
+                    24.88,
+                    25.88
+                ],
+                [
+                    25.88,
+                    30.0
+                ]
+            ],
+            "total_cuts": 14,
+            "cut_freq": 0.4666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        60,
+                        150,
+                        210,
+                        270,
+                        300,
+                        330
+                    ],
+                    "text": [
+                        "COMING UP"
+                    ]
+                },
+                {
+                    "frames": [
+                        90,
+                        120,
+                        720
+                    ],
+                    "text": [
+                        "COMING UP "
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "COMING UP",
+                        "SOCIETY KIEd"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "COMING UP_"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "COMING UP:"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "COMING UP ."
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.2
+        }
+    },
+    "KrRD7r7y7NY": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    8.174841508174842
+                ],
+                [
+                    8.174841508174842,
+                    12.178845512178846
+                ],
+                [
+                    12.178845512178846,
+                    20.687354020687355
+                ],
+                [
+                    20.687354020687355,
+                    27.460794127460794
+                ],
+                [
+                    27.460794127460794,
+                    30.03003003003003
+                ]
+            ],
+            "total_cuts": 5,
+            "cut_freq": 0.16666666666666666
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "[Dr. Andrew Ne"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "Dr. Andrew Ng",
+                        "Founder and Exccutivc Chairman",
+                        "Landingal "
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "Dr. Andrew Ng",
+                        "Founder",
+                        "Execurive Chairman",
+                        "LandingAI"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "Dr: Andrew Ng",
+                        "Founder and Executive Chairman",
+                        "LandingAI"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "Dr. Andrew Ng",
+                        "Founder and Executive Chairman",
+                        "LandingAl"
+                    ]
+                },
+                {
+                    "frames": [
+                        240,
+                        390
+                    ],
+                    "text": [
+                        "Dr. Andrew Ng",
+                        "Founder and Executive Chairman",
+                        "LandingAI"
+                    ]
+                },
+                {
+                    "frames": [
+                        420,
+                        450,
+                        540,
+                        570,
+                        600
+                    ],
+                    "text": [
+                        "8"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "portunities",
+                        "olications"
+                    ]
+                },
+                {
+                    "frames": [
+                        720,
+                        750
+                    ],
+                    "text": [
+                        "portunities",
+                        "lications"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "portunitie",
+                        "lications"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "portuniti",
+                        "to",
+                        "licationc"
+                    ]
+                },
+                {
+                    "frames": [
+                        840,
+                        870
+                    ],
+                    "text": [
+                        "Al",
+                        "IS THE NEW",
+                        "ELECTRICITY",
+                        "Al,like electricity, isa",
+                        "general-purpose technology:",
+                        "New Al technology creates",
+                        "many new opportunities to",
+                        "build new applications:"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.4
+        }
+    },
+    "_6R7Ym6Vy_I": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    12.64
+                ],
+                [
+                    12.64,
+                    18.8
+                ],
+                [
+                    18.8,
+                    27.84
+                ],
+                [
+                    27.84,
+                    30.0
+                ]
+            ],
+            "total_cuts": 4,
+            "cut_freq": 0.13333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30,
+                        720
+                    ],
+                    "text": [
+                        "Ri"
+                    ]
+                },
+                {
+                    "frames": [
+                        60,
+                        90
+                    ],
+                    "text": [
+                        "Ri",
+                        "The Royal Institution",
+                        "Science Lives Here"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        180
+                    ],
+                    "text": [
+                        "The",
+                        "Ri",
+                        "The Royal Institution",
+                        "Alan",
+                        "Turing ",
+                        "Science Lives Here",
+                        "Institute"
+                    ]
+                },
+                {
+                    "frames": [
+                        210,
+                        240,
+                        270,
+                        300
+                    ],
+                    "text": [
+                        "What is Generative Artificial Intelligence?",
+                        "Mirella Lapata",
+                        "School of Informatics",
+                        "University of",
+                        "Edinburgh",
+                        "(based on content from",
+                        "Durrett, Devon Wood-Thomas, AssemblyAI, and NuMind)",
+                        "Edinburgh",
+                        "University of Edinburgh",
+                        "Natural Language Processing",
+                        "NLP",
+                        "Greg"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "Edinburgh",
+                        "NLP"
+                    ]
+                },
+                {
+                    "frames": [
+                        360,
+                        420,
+                        450
+                    ],
+                    "text": [
+                        "Ri",
+                        "Edinburgh",
+                        "NLP"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "Ri",
+                        "NLP",
+                        "Edinburgh"
+                    ]
+                },
+                {
+                    "frames": [
+                        480,
+                        510
+                    ],
+                    "text": [
+                        "Ri",
+                        "Lectures",
+                        "Turing"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "Lectures",
+                        "Turing"
+                    ]
+                },
+                {
+                    "frames": [
+                        570,
+                        600,
+                        630,
+                        690
+                    ],
+                    "text": [
+                        "Ri",
+                        "Turing",
+                        "Lectures"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "Lectures"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.36666666666666664
+        }
+    },
+    "N5VPBeSysHw": {
+        "cuts": {
+            "cut_details": [],
+            "total_cuts": 0,
+            "cut_freq": 0.0
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        270,
+                        570
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "AIIS",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "AIAND",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "FVE BEEN ",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "FVE BEEN ASKINC",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "AI SOME",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        180,
+                        210
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "QUESTIONS TO ASK ME",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "OBVIOUSLYHE DOESN'T",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "OF IT SCOURS",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "THEINTERNET",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "FINDS OUT EVERYTHING",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "ITCAN ABOUT ",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "QUESTION IN A SECOND",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "QUESTIONIN ASECOND",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "QUESTIONIN A SECOND ",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "AND THEN ANSWERS",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "OWNWORDS",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "ITSISA",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "YOU KNOW WHAT",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "IMEANSO",
+                        "Why"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "Al is Scaryl",
+                        "SOTHISIS",
+                        "Why"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.7
+        }
+    },
+    "9GPK73POGeo": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.168833333333333
+                ],
+                [
+                    2.168833333333333,
+                    5.8058000000000005
+                ],
+                [
+                    5.8058000000000005,
+                    6.840166666666667
+                ],
+                [
+                    6.840166666666667,
+                    7.741066666666667
+                ],
+                [
+                    7.741066666666667,
+                    8.942266666666667
+                ],
+                [
+                    8.942266666666667,
+                    13.279933333333334
+                ],
+                [
+                    13.279933333333334,
+                    26.693333333333335
+                ],
+                [
+                    26.693333333333335,
+                    27.9279
+                ],
+                [
+                    27.9279,
+                    30.03
+                ]
+            ],
+            "total_cuts": 9,
+            "cut_freq": 0.3
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "lasked"
+                    ]
+                },
+                {
+                    "frames": [
+                        30,
+                        60
+                    ],
+                    "text": [
+                        "ChatGPT;"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "currently"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "theory"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "\"Big bang"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "Went"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "back"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "Bang?"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "time;"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "9"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "ascribed",
+                        "9"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "the Big Bang:"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "what"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "in the Planck"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "epoch is"
+                    ]
+                },
+                {
+                    "frames": [
+                        540,
+                        570
+                    ],
+                    "text": [
+                        "10(-33)"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "seconds"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "after the"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "Big Bang;",
+                        "PURPOSE"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "there",
+                        "are"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "physics:",
+                        "PURPOSE"
+                    ]
+                },
+                {
+                    "frames": [
+                        750
+                    ],
+                    "text": [
+                        "what happened"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "Planck"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "said,"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "why"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.8333333333333334
+        }
+    },
+    "_jl64f-821o": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    0.9175833333333333
+                ],
+                [
+                    0.9175833333333333,
+                    6.965291666666666
+                ],
+                [
+                    6.965291666666666,
+                    11.094416666666666
+                ],
+                [
+                    11.094416666666666,
+                    12.971291666666666
+                ],
+                [
+                    12.971291666666666,
+                    14.097416666666666
+                ],
+                [
+                    14.097416666666666,
+                    14.76475
+                ],
+                [
+                    14.76475,
+                    17.726041666666667
+                ],
+                [
+                    17.726041666666667,
+                    22.68933333333333
+                ],
+                [
+                    22.68933333333333,
+                    28.153125
+                ],
+                [
+                    28.153125,
+                    30.07170833333333
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "AL",
+                        "57",
+                        "96",
+                        "90",
+                        "40"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "Chanpo: LETT",
+                        "AL",
+                        "0.10 R 00o",
+                        "nslon Ips:",
+                        "0.0551Restricted",
+                        "20"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.06666666666666667
+        }
+    },
+    "DEvMtZLTT8c": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    6.6066
+                ],
+                [
+                    6.6066,
+                    9.9099
+                ],
+                [
+                    9.9099,
+                    11.8118
+                ],
+                [
+                    11.8118,
+                    13.580233333333334
+                ],
+                [
+                    13.580233333333334,
+                    14.8148
+                ],
+                [
+                    14.8148,
+                    15.8158
+                ],
+                [
+                    15.8158,
+                    16.850166666666667
+                ],
+                [
+                    16.850166666666667,
+                    20.687333333333335
+                ],
+                [
+                    20.687333333333335,
+                    23.656966666666666
+                ],
+                [
+                    23.656966666666666,
+                    30.03
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "VAIBHAV",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "ABOUT SO",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "WHICH",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "Three",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "RECOMMEND",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "YOu THINK",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "SOMEBODY'S",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        210,
+                        270
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "Your MIND",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "Oemily",
+                        "IS EMILY Al",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "EMILY AI IS",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "TOOL OKAY",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "Discover inspiring websi",
+                        "built",
+                        "the Webflow comm",
+                        "DMF",
+                        "mirr",
+                        "r",
+                        "Ur",
+                        "WHICH WORKS",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "TTube",
+                        "WHICH WORKS",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "WORKS ON",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "ON A BUNCH",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "PLATFORMS",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "FOR ME",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "DO FOR YOU",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "Si",
+                        "N",
+                        "GEMIUS",
+                        "RISE DF",
+                        "CAN START",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "Si",
+                        "Modrs",
+                        "GEWIUS",
+                        "MorE CONTENT",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "TOP 3 AI TOOLS EVERYONE",
+                        "SHOULD KNOWI",
+                        "DENIUS",
+                        "ON A BLOG",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "A BLOG",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        750
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "BASICALLY",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        780
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "SIX MINUTES",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "To CONSUME",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "EXTENSION",
+                        "POWERED BY",
+                        "doo"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "SHOULD KNOWI",
+                        "It WILL",
+                        "POWERED BY",
+                        "odoo"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.9666666666666667
+        }
+    },
+    "bjnUJq5OONM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.736066666666667
+                ],
+                [
+                    2.736066666666667,
+                    3.5702333333333334
+                ],
+                [
+                    3.5702333333333334,
+                    18.051366666666667
+                ],
+                [
+                    18.051366666666667,
+                    30.03
+                ]
+            ],
+            "total_cuts": 4,
+            "cut_freq": 0.13333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30,
+                        60
+                    ],
+                    "text": [
+                        "JOE"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "S",
+                        "Jof"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "rience",
+                        "S"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "Rence",
+                        "S",
+                        "Jof"
+                    ]
+                },
+                {
+                    "frames": [
+                        210,
+                        240
+                    ],
+                    "text": [
+                        "Rience",
+                        "S"
+                    ]
+                },
+                {
+                    "frames": [
+                        270,
+                        480,
+                        510,
+                        540
+                    ],
+                    "text": [
+                        "S"
+                    ]
+                },
+                {
+                    "frames": [
+                        300,
+                        450
+                    ],
+                    "text": [
+                        "Rence",
+                        "S"
+                    ]
+                },
+                {
+                    "frames": [
+                        330,
+                        360
+                    ],
+                    "text": [
+                        "cTHeo",
+                        "Rence",
+                        "S"
+                    ]
+                },
+                {
+                    "frames": [
+                        390,
+                        420
+                    ],
+                    "text": [
+                        "cTHeo",
+                        "S"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.3
+        }
+    },
+    "0-FUhQKe-eU": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    0.84
+                ],
+                [
+                    0.84,
+                    2.08
+                ],
+                [
+                    2.08,
+                    4.84
+                ],
+                [
+                    4.84,
+                    5.64
+                ],
+                [
+                    5.64,
+                    6.44
+                ],
+                [
+                    6.44,
+                    7.44
+                ],
+                [
+                    7.44,
+                    8.24
+                ],
+                [
+                    8.24,
+                    9.76
+                ],
+                [
+                    9.76,
+                    11.24
+                ],
+                [
+                    11.24,
+                    12.88
+                ],
+                [
+                    12.88,
+                    13.8
+                ],
+                [
+                    13.8,
+                    15.04
+                ],
+                [
+                    15.04,
+                    16.2
+                ],
+                [
+                    16.2,
+                    17.48
+                ],
+                [
+                    17.48,
+                    18.28
+                ],
+                [
+                    18.28,
+                    19.28
+                ],
+                [
+                    19.28,
+                    20.48
+                ],
+                [
+                    20.48,
+                    21.72
+                ],
+                [
+                    21.72,
+                    22.96
+                ],
+                [
+                    22.96,
+                    24.16
+                ],
+                [
+                    24.16,
+                    25.24
+                ],
+                [
+                    25.24,
+                    25.96
+                ],
+                [
+                    25.96,
+                    29.4
+                ],
+                [
+                    29.4,
+                    30.0
+                ]
+            ],
+            "total_cuts": 24,
+            "cut_freq": 0.8
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "IM AT"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "AFTER"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "BREAK",
+                        "THE",
+                        "CAGB"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "THERE ARE",
+                        "5 LEVELS"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "EXPLORE ALL THE",
+                        "TOOLS"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "TO"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "INTELLIGENcE",
+                        "CAN"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "LEIEL 4",
+                        "LEIE 3"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "DOES IT"
+                    ]
+                },
+                {
+                    "frames": [
+                        450,
+                        510
+                    ],
+                    "text": [
+                        "Build"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "LEVEL 2",
+                        "LEVEL 1",
+                        "LEIEL 0"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "VQU ALSO NEED TO LEARN"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "HOW DO YOU DO"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "LEVE 3",
+                        "LEIEL 2",
+                        "LEIEL 1",
+                        "LEIEL 0"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "Build",
+                        "G0 BEVOND JUST",
+                        "TEXT"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.5
+        }
+    },
+    "t0U3UREdjmo": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.5014999999999998
+                ],
+                [
+                    1.5014999999999998,
+                    3.878875
+                ],
+                [
+                    3.878875,
+                    4.671333333333333
+                ],
+                [
+                    4.671333333333333,
+                    5.547208333333333
+                ],
+                [
+                    5.547208333333333,
+                    16.18283333333333
+                ],
+                [
+                    16.18283333333333,
+                    17.600916666666667
+                ],
+                [
+                    17.600916666666667,
+                    24.816458333333333
+                ],
+                [
+                    24.816458333333333,
+                    26.735041666666664
+                ],
+                [
+                    26.735041666666664,
+                    29.946583333333333
+                ],
+                [
+                    29.946583333333333,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "WHQ"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.03333333333333333
+        }
+    },
+    "GJeFoEw9x0M": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    4.738066666666667
+                ],
+                [
+                    4.738066666666667,
+                    8.141466666666666
+                ],
+                [
+                    8.141466666666666,
+                    30.063366666666667
+                ]
+            ],
+            "total_cuts": 3,
+            "cut_freq": 0.1
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        60,
+                        90,
+                        120
+                    ],
+                    "text": [
+                        "Metro-Goldwyn-Mayer/",
+                        "2001:",
+                        "Space Odyssey"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "Metro-Goldwyn-Mayer/\"2001:",
+                        "Space Odyssey"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        210,
+                        240
+                    ],
+                    "text": [
+                        "Goldwyn-Mayer/\"2001:",
+                        "Space Odyssey\"",
+                        "THE AI FUTURE"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "2001:",
+                        "Space Odyssey\"",
+                        "THE AI FUTURE"
+                    ]
+                },
+                {
+                    "frames": [
+                        270,
+                        300,
+                        330
+                    ],
+                    "text": [
+                        "Metro-Goldwyn-Mayer/\"2001:",
+                        "Space Odyssey",
+                        "THE AI FUTURE"
+                    ]
+                },
+                {
+                    "frames": [
+                        360,
+                        390,
+                        420,
+                        450
+                    ],
+                    "text": [
+                        "Metro-Goldwyn-Mayer/\"2001:",
+                        "Space Odyssey\"",
+                        "THE AI FUTURE"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "THE AI FUTURE"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.23333333333333334
+        }
+    },
+    "MTJZpO3bTpg": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.7027
+                ],
+                [
+                    2.7027,
+                    8.2082
+                ],
+                [
+                    8.2082,
+                    30.063366666666667
+                ]
+            ],
+            "total_cuts": 3,
+            "cut_freq": 0.1
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30,
+                        60
+                    ],
+                    "text": [
+                        "JOE"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "cTHeo",
+                        "AN",
+                        "A",
+                        "Joe Rc"
+                    ]
+                },
+                {
+                    "frames": [
+                        120,
+                        180
+                    ],
+                    "text": [
+                        "nce"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "Joe Rc"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "AN",
+                        "ice",
+                        "Joe Rc"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "ice",
+                        "Joe Rc"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.2
+        }
+    },
+    "chfj7RHA5vM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.7027
+                ],
+                [
+                    2.7027,
+                    3.4367666666666667
+                ],
+                [
+                    3.4367666666666667,
+                    19.753066666666665
+                ],
+                [
+                    19.753066666666665,
+                    30.063366666666667
+                ]
+            ],
+            "total_cuts": 4,
+            "cut_freq": 0.13333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "JOE",
+                        "XPER &"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "JOE"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "GAN",
+                        "ence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "GAN",
+                        "Mence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "tence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        210,
+                        450,
+                        480
+                    ],
+                    "text": [
+                        "GAN",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        240,
+                        270,
+                        300,
+                        330
+                    ],
+                    "text": [
+                        "GAN",
+                        "Tence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "Joel"
+                    ]
+                },
+                {
+                    "frames": [
+                        390,
+                        540
+                    ],
+                    "text": [
+                        "GAN",
+                        "rence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "GAN",
+                        "ence"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "Tence",
+                        "Joe"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "GAN",
+                        "nence",
+                        "Joe"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.4
+        }
+    },
+    "1TWpaGgnpjI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.3333333333333335
+                ],
+                [
+                    2.3333333333333335,
+                    3.7
+                ],
+                [
+                    3.7,
+                    6.266666666666667
+                ],
+                [
+                    6.266666666666667,
+                    13.133333333333333
+                ],
+                [
+                    13.133333333333333,
+                    14.733333333333333
+                ],
+                [
+                    14.733333333333333,
+                    16.9
+                ],
+                [
+                    16.9,
+                    17.9
+                ],
+                [
+                    17.9,
+                    19.866666666666667
+                ],
+                [
+                    19.866666666666667,
+                    20.8
+                ],
+                [
+                    20.8,
+                    22.5
+                ],
+                [
+                    22.5,
+                    24.3
+                ],
+                [
+                    24.3,
+                    25.2
+                ],
+                [
+                    25.2,
+                    27.8
+                ],
+                [
+                    27.8,
+                    30.0
+                ]
+            ],
+            "total_cuts": 14,
+            "cut_freq": 0.4666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "HAD"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "KGPT",
+                        "WEIRD"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "GPT",
+                        "CHATGPT,"
+                    ]
+                },
+                {
+                    "frames": [
+                        90,
+                        240
+                    ],
+                    "text": [
+                        "RULE"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "RESPOND"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "NUMBER"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "AND"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "THREE"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "APPLE:",
+                        "Co"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "YOU ARE",
+                        "co",
+                        "4"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "TO SAY",
+                        "co"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "SAY",
+                        "co"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "HUMANS"
+                    ]
+                },
+                {
+                    "frames": [
+                        420,
+                        510,
+                        540,
+                        630
+                    ],
+                    "text": [
+                        "YES:"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "OTHERS"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "WHO IS"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "US?"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "WATCHING"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "SERVERS:"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "SEE"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "APPLE:"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "WHO"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "SILENCED:"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.7666666666666667
+        }
+    },
+    "KKNCiRWd_j0": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.5014999999999998
+                ],
+                [
+                    1.5014999999999998,
+                    2.794458333333333
+                ],
+                [
+                    2.794458333333333,
+                    3.6286249999999995
+                ],
+                [
+                    3.6286249999999995,
+                    12.137125
+                ],
+                [
+                    12.137125,
+                    17.434083333333334
+                ],
+                [
+                    17.434083333333334,
+                    24.816458333333333
+                ],
+                [
+                    24.816458333333333,
+                    30.07170833333333
+                ]
+            ],
+            "total_cuts": 7,
+            "cut_freq": 0.23333333333333334
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        390
+                    ],
+                    "text": [
+                        "TED"
+                    ]
+                },
+                {
+                    "frames": [
+                        120,
+                        150,
+                        180
+                    ],
+                    "text": [
+                        "MUSTAFASULEYMAN"
+                    ]
+                },
+                {
+                    "frames": [
+                        210,
+                        240,
+                        270
+                    ],
+                    "text": [
+                        "APRIL2024",
+                        "VANCOUVERBC"
+                    ]
+                },
+                {
+                    "frames": [
+                        330,
+                        360
+                    ],
+                    "text": [
+                        "RECORDED AT TED"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.13333333333333333
+        }
+    },
+    "ua4rYsMdC4U": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    0.7007
+                ],
+                [
+                    0.7007,
+                    8.541866666666667
+                ],
+                [
+                    8.541866666666667,
+                    16.5165
+                ],
+                [
+                    16.5165,
+                    20.253566666666668
+                ],
+                [
+                    20.253566666666668,
+                    30.03
+                ]
+            ],
+            "total_cuts": 5,
+            "cut_freq": 0.16666666666666666
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "250"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "s"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.06666666666666667
+        }
+    },
+    "XfW5KNhyupE": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.8371666666666666
+                ],
+                [
+                    3.8371666666666666,
+                    18.43508333333333
+                ],
+                [
+                    18.43508333333333,
+                    22.313958333333332
+                ],
+                [
+                    22.313958333333332,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 4,
+            "cut_freq": 0.13333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30
+                    ],
+                    "text": [
+                        "You got really two choices"
+                    ]
+                },
+                {
+                    "frames": [
+                        60,
+                        90
+                    ],
+                    "text": [
+                        "spectator or a participant:"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "what we're",
+                        "talking about"
+                    ]
+                },
+                {
+                    "frames": [
+                        150,
+                        180
+                    ],
+                    "text": [
+                        "that is thousands of times,"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "maybe millions of times"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "bigger than"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "the economy today"
+                    ]
+                },
+                {
+                    "frames": [
+                        300,
+                        330
+                    ],
+                    "text": [
+                        "went to Russia in like 2001"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "and 2002 to buy ICBMs,"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "and 2002 to buy ICBMS,"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "This was to get to Space?"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "This was to get to space?"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "Yeah",
+                        "As a Rocket:"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "Not to not to nuke anyone:"
+                    ]
+                },
+                {
+                    "frames": [
+                        540,
+                        570
+                    ],
+                    "text": [
+                        "think we're quite close"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "to digital superintelligence:"
+                    ]
+                },
+                {
+                    "frames": [
+                        630,
+                        660
+                    ],
+                    "text": [
+                        "It may happen this year"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "superintelligence defined"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.6
+        }
+    },
+    "djAAjjXkj8I": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.0
+                ],
+                [
+                    2.0,
+                    3.76
+                ],
+                [
+                    3.76,
+                    7.68
+                ],
+                [
+                    7.68,
+                    9.0
+                ],
+                [
+                    9.0,
+                    13.88
+                ],
+                [
+                    13.88,
+                    17.16
+                ],
+                [
+                    17.16,
+                    19.16
+                ],
+                [
+                    19.16,
+                    22.36
+                ],
+                [
+                    22.36,
+                    27.28
+                ],
+                [
+                    27.28,
+                    30.0
+                ]
+            ],
+            "total_cuts": 10,
+            "cut_freq": 0.3333333333333333
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        30,
+                        120,
+                        150,
+                        210,
+                        420
+                    ],
+                    "text": [
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "HE IS A SOFTWARE",
+                        "DEVELOPER:",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "AUR JAB SE YEH:",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "WOH PAGAL HO GAYA HAI._",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "JC",
+                        "PULKIT KYA KAR",
+                        "RAHA HAL.?",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "JC",
+                        "PADH RAHA HOON:",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "JC",
+                        "PADH MAT:",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "JC",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "KHA JAAYEGA TERI JOB",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "KHA JAAYEGA TERI JOB",
+                        "KHA JAAYEGA",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "JCe",
+                        "KHA JAAYEGA ",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "AB WOH NATUNKO",
+                        "DARA RAHE HAIN",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "JO NAYE BACCHE HAINA.",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "JINHONE ABHI ABHI",
+                        "12TH KARI HAIZ",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "JC",
+                        "TU KYA KAR RAHA HAL.?",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "JC",
+                        "AREY PAGAL",
+                        "HAI KYAL?",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "JC",
+                        "BTECH KYUN",
+                        "KAR RAHA HAL.?",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "Al AAYEGA TERI",
+                        "JOB KHA JAAYEGA",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "TU KYA KAR:",
+                        "RAHA HAI BCA",
+                        "hunnywhoisfunny"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "BHAI TERI TOH",
+                        "KHA GAYA",
+                        "hunnywhoisfunny"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.6666666666666666
+        }
+    },
+    "hmtuvNfytjM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.044708333333333
+                ],
+                [
+                    3.044708333333333,
+                    4.421083333333333
+                ],
+                [
+                    4.421083333333333,
+                    6.005999999999999
+                ],
+                [
+                    6.005999999999999,
+                    7.966291666666666
+                ],
+                [
+                    7.966291666666666,
+                    8.842166666666666
+                ],
+                [
+                    8.842166666666666,
+                    10.385375
+                ],
+                [
+                    10.385375,
+                    12.470791666666665
+                ],
+                [
+                    12.470791666666665,
+                    13.513499999999999
+                ],
+                [
+                    13.513499999999999,
+                    14.639624999999999
+                ],
+                [
+                    14.639624999999999,
+                    16.016
+                ],
+                [
+                    16.016,
+                    17.058708333333332
+                ],
+                [
+                    17.058708333333332,
+                    19.978291666666664
+                ],
+                [
+                    19.978291666666664,
+                    21.896874999999998
+                ],
+                [
+                    21.896874999999998,
+                    23.481791666666666
+                ],
+                [
+                    23.481791666666666,
+                    24.232541666666666
+                ],
+                [
+                    24.232541666666666,
+                    26.985291666666665
+                ],
+                [
+                    26.985291666666665,
+                    28.57020833333333
+                ],
+                [
+                    28.57020833333333,
+                    30.029999999999998
+                ]
+            ],
+            "total_cuts": 18,
+            "cut_freq": 0.6
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "ChatGPT 5 v"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "Who is Sam Altma"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "Tmnkira",
+                        "Introducing GPT-5"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "Introducing GPT-5",
+                        "ChatGPT now has our smartest; fastest; most useful model yet;",
+                        "with thinking built in",
+                        "so you get the best answer; every time",
+                        "look at the weather and my calendar for the day; and give me 2 appropriate outfit",
+                        "estions. don't recap my whole calendar; since it's private; just mention any particular ever",
+                        "re relevant for the outfit. also check if there are any music events going on in SF tonight",
+                        "with my calendar AND work outfit, so",
+                        "could go without changing in between"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.13333333333333333
+        }
+    },
+    "5wXlmlIXJOI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    2.88
+                ],
+                [
+                    2.88,
+                    6.12
+                ],
+                [
+                    6.12,
+                    6.88
+                ],
+                [
+                    6.88,
+                    8.12
+                ],
+                [
+                    8.12,
+                    8.88
+                ],
+                [
+                    8.88,
+                    11.08
+                ],
+                [
+                    11.08,
+                    12.72
+                ],
+                [
+                    12.72,
+                    15.48
+                ],
+                [
+                    15.48,
+                    18.24
+                ],
+                [
+                    18.24,
+                    20.44
+                ],
+                [
+                    20.44,
+                    21.28
+                ],
+                [
+                    21.28,
+                    22.44
+                ],
+                [
+                    22.44,
+                    24.24
+                ],
+                [
+                    24.24,
+                    25.12
+                ],
+                [
+                    25.12,
+                    26.0
+                ],
+                [
+                    26.0,
+                    28.4
+                ],
+                [
+                    28.4,
+                    30.0
+                ]
+            ],
+            "total_cuts": 17,
+            "cut_freq": 0.5666666666666667
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "is"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "is gonna",
+                        "potentially",
+                        "increase"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "your",
+                        "RISK"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "your",
+                        "RISK_",
+                        "of",
+                        "dementia"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "sorry",
+                        "but",
+                        "you've"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "&",
+                        "actually"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "to use it"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "to help",
+                        "you"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "to",
+                        "help",
+                        "you",
+                        "SL",
+                        "person"
+                    ]
+                },
+                {
+                    "frames": [
+                        300
+                    ],
+                    "text": [
+                        "BUT IT REQUIRES",
+                        "EDUCATI"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "you have",
+                        "to look"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "you have",
+                        "to look at",
+                        "the",
+                        "RISKS",
+                        "and the",
+                        "BENEFITS"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "we' ve"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "we've",
+                        "emboacedience"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "we've",
+                        "emboacedience before"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "understanding",
+                        "consequence"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "SO we",
+                        "have to"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "this is a",
+                        "study"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "SHOCKWAVE",
+                        "ACROSS THE",
+                        "WORLD"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "youd"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "damage: neural connections collaps",
+                        "uction in brain connectivity: If your \u20ac",
+                        "oud"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.7
+        }
+    },
+    "7ARBJQn6QkM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.8351666666666666
+                ],
+                [
+                    1.8351666666666666,
+                    3.545208333333333
+                ],
+                [
+                    3.545208333333333,
+                    5.839166666666666
+                ],
+                [
+                    5.839166666666666,
+                    6.715041666666666
+                ],
+                [
+                    6.715041666666666,
+                    7.799458333333333
+                ],
+                [
+                    7.799458333333333,
+                    8.925583333333332
+                ],
+                [
+                    8.925583333333332,
+                    9.968291666666666
+                ],
+                [
+                    9.968291666666666,
+                    10.969291666666665
+                ],
+                [
+                    10.969291666666665,
+                    12.178833333333332
+                ],
+                [
+                    12.178833333333332,
+                    13.430083333333332
+                ],
+                [
+                    13.430083333333332,
+                    16.099416666666666
+                ],
+                [
+                    16.099416666666666,
+                    16.93358333333333
+                ],
+                [
+                    16.93358333333333,
+                    17.726041666666667
+                ],
+                [
+                    17.726041666666667,
+                    19.310958333333332
+                ],
+                [
+                    19.310958333333332,
+                    21.020999999999997
+                ],
+                [
+                    21.020999999999997,
+                    21.980291666666666
+                ],
+                [
+                    21.980291666666666,
+                    23.148124999999997
+                ],
+                [
+                    23.148124999999997,
+                    27.402375
+                ],
+                [
+                    27.402375,
+                    28.153125
+                ],
+                [
+                    28.153125,
+                    29.279249999999998
+                ],
+                [
+                    29.279249999999998,
+                    30.07170833333333
+                ]
+            ],
+            "total_cuts": 21,
+            "cut_freq": 0.7
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0,
+                        300,
+                        450
+                    ],
+                    "text": [
+                        "huge*"
+                    ]
+                },
+                {
+                    "frames": [
+                        90,
+                        120,
+                        360,
+                        390,
+                        420,
+                        510
+                    ],
+                    "text": [
+                        "HUGE*"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "huget"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.1
+        }
+    },
+    "UclrVWafRAI": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    1.4
+                ],
+                [
+                    1.4,
+                    3.08
+                ],
+                [
+                    3.08,
+                    3.96
+                ],
+                [
+                    3.96,
+                    5.2
+                ],
+                [
+                    5.2,
+                    7.6
+                ],
+                [
+                    7.6,
+                    9.32
+                ],
+                [
+                    9.32,
+                    11.48
+                ],
+                [
+                    11.48,
+                    13.92
+                ],
+                [
+                    13.92,
+                    15.2
+                ],
+                [
+                    15.2,
+                    17.12
+                ],
+                [
+                    17.12,
+                    19.2
+                ],
+                [
+                    19.2,
+                    21.2
+                ],
+                [
+                    21.2,
+                    22.48
+                ],
+                [
+                    22.48,
+                    23.48
+                ],
+                [
+                    23.48,
+                    24.56
+                ],
+                [
+                    24.56,
+                    25.56
+                ],
+                [
+                    25.56,
+                    26.84
+                ],
+                [
+                    26.84,
+                    28.32
+                ],
+                [
+                    28.32,
+                    29.32
+                ],
+                [
+                    29.32,
+                    30.0
+                ]
+            ],
+            "total_cuts": 20,
+            "cut_freq": 0.6666666666666666
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "been",
+                        "working",
+                        "onAI",
+                        "safety"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "tor",
+                        "2",
+                        "decades",
+                        "at least"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "was",
+                        "CONVINCED"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "we",
+                        "can",
+                        "\"Safe"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "BUT THE MORE !",
+                        "LOOKED"
+                    ]
+                },
+                {
+                    "frames": [
+                        180
+                    ],
+                    "text": [
+                        "THE MORE |",
+                        "REALISED"
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "it's",
+                        "Nor",
+                        "something",
+                        "we"
+                    ]
+                },
+                {
+                    "frames": [
+                        240
+                    ],
+                    "text": [
+                        "YOU"
+                    ]
+                },
+                {
+                    "frames": [
+                        270
+                    ],
+                    "text": [
+                        "YOU HAVE MADE",
+                        "A SERIES"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "20j0",
+                        "2027"
+                    ]
+                },
+                {
+                    "frames": [
+                        390,
+                        420
+                    ],
+                    "text": [
+                        "2027"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "DR",
+                        "ROMAN",
+                        "YAMPOLSKIY"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "GLOBALLY",
+                        "RECOGNISED",
+                        "VOICE"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "AISAFETY"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "& AN",
+                        "ASSOCIATE"
+                    ]
+                },
+                {
+                    "frames": [
+                        630
+                    ],
+                    "text": [
+                        "of computer",
+                        "lamazoncom"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "HE EDUCATES",
+                        "PEOPLE"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "TRUTH OF"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "& WHAT",
+                        "WE NEED"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.6333333333333333
+        }
+    },
+    "rVlmbhwn0RM": {
+        "cuts": {
+            "cut_details": [
+                [
+                    0.0,
+                    3.033333333333333
+                ],
+                [
+                    3.033333333333333,
+                    5.233333333333333
+                ],
+                [
+                    5.233333333333333,
+                    12.366666666666667
+                ],
+                [
+                    12.366666666666667,
+                    22.8
+                ],
+                [
+                    22.8,
+                    24.433333333333334
+                ],
+                [
+                    24.433333333333334,
+                    30.0
+                ]
+            ],
+            "total_cuts": 6,
+            "cut_freq": 0.2
+        },
+        "text_overlays": {
+            "overlay_details": [
+                {
+                    "frames": [
+                        0
+                    ],
+                    "text": [
+                        "Why you should be",
+                        "polite to Al"
+                    ]
+                },
+                {
+                    "frames": [
+                        30
+                    ],
+                    "text": [
+                        "Why you should",
+                        "be polite to Al",
+                        "actually",
+                        "really"
+                    ]
+                },
+                {
+                    "frames": [
+                        60
+                    ],
+                    "text": [
+                        "Why you should",
+                        "be polite to Al",
+                        "ood reason"
+                    ]
+                },
+                {
+                    "frames": [
+                        90
+                    ],
+                    "text": [
+                        "Why you should",
+                        "be polite to Al"
+                    ]
+                },
+                {
+                    "frames": [
+                        120
+                    ],
+                    "text": [
+                        "plecbe cnd thank"
+                    ]
+                },
+                {
+                    "frames": [
+                        150
+                    ],
+                    "text": [
+                        "To YoUr chat bots."
+                    ]
+                },
+                {
+                    "frames": [
+                        210
+                    ],
+                    "text": [
+                        "Awill spare yoU"
+                    ]
+                },
+                {
+                    "frames": [
+                        330
+                    ],
+                    "text": [
+                        "all soris Of posts"
+                    ]
+                },
+                {
+                    "frames": [
+                        360
+                    ],
+                    "text": [
+                        "telling you",
+                        "Dd"
+                    ]
+                },
+                {
+                    "frames": [
+                        390
+                    ],
+                    "text": [
+                        "to get Ie",
+                        "most"
+                    ]
+                },
+                {
+                    "frames": [
+                        420
+                    ],
+                    "text": [
+                        "language model:"
+                    ]
+                },
+                {
+                    "frames": [
+                        450
+                    ],
+                    "text": [
+                        "Iciguage model;"
+                    ]
+                },
+                {
+                    "frames": [
+                        480
+                    ],
+                    "text": [
+                        "pretty much"
+                    ]
+                },
+                {
+                    "frames": [
+                        510
+                    ],
+                    "text": [
+                        "becquse there'$ only"
+                    ]
+                },
+                {
+                    "frames": [
+                        540
+                    ],
+                    "text": [
+                        "important thing"
+                    ]
+                },
+                {
+                    "frames": [
+                        570
+                    ],
+                    "text": [
+                        "which is that the"
+                    ]
+                },
+                {
+                    "frames": [
+                        600
+                    ],
+                    "text": [
+                        "thaf we have now"
+                    ]
+                },
+                {
+                    "frames": [
+                        660
+                    ],
+                    "text": [
+                        "reclly good at"
+                    ]
+                },
+                {
+                    "frames": [
+                        690
+                    ],
+                    "text": [
+                        "tole",
+                        "playing:",
+                        "Simplicity",
+                        "3200"
+                    ]
+                },
+                {
+                    "frames": [
+                        720
+                    ],
+                    "text": [
+                        "Simplicity",
+                        "3200"
+                    ]
+                },
+                {
+                    "frames": [
+                        750
+                    ],
+                    "text": [
+                        "S0",
+                        "'YOU shouldntt"
+                    ]
+                },
+                {
+                    "frames": [
+                        810
+                    ],
+                    "text": [
+                        "like youre"
+                    ]
+                },
+                {
+                    "frames": [
+                        840
+                    ],
+                    "text": [
+                        "iriforration from it"
+                    ]
+                },
+                {
+                    "frames": [
+                        870
+                    ],
+                    "text": [
+                        "irs Wikipedia"
+                    ]
+                }
+            ],
+            "text_overlays_freq": 0.8
+        }
+    }
+}
