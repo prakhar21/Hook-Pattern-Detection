@@ -40,3 +40,6 @@ Hook_Effectiveness (he) = Weighted_Engagement_Ratio * View_Velocity * 1/Video_ag
 * Total watch time for the video.
 * Subscriber growth from particular video.
 * Average view duration.
+
+
+Correlation (views vs he): 0.4986859660140081
