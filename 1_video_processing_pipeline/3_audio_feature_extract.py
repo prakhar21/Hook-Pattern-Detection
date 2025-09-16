@@ -20,7 +20,7 @@ def convert(o):
 class AudioFeatures:
     
     def __init__(self, audio_file_path:str):
-        self.audio_files = glob.glob(os.path.join(audio_file_path,'*'))
+        self.audio_files = glob.glob(os.path.join(audio_file_path,'*.wav'))
     
     
     def detect_music_presence(self, y, sr, threshold=0.2):    
@@ -52,7 +52,7 @@ class AudioFeatures:
             audio_features[f_name] = {"intensity":{"mean": round(float(np.mean(rms)), 4), 
                                                     "max": round(float(np.max(rms)), 4), 
                                                     "min": round(float(np.min(rms)), 4),
-                                                    "variance": round(float(np.std(rms), 4))
+                                                    "variance": round(float(np.std(rms)), 4)
                                                 }
                                      }
 
@@ -63,7 +63,7 @@ class AudioFeatures:
             
             # FEATURE 3: Pitch Variance
             f0 = librosa.yin(y, fmin=50, fmax=300, sr=sr)
-            audio_features[f_name]["pitch_var"] = round(float(np.std(f0)))
+            audio_features[f_name]["pitch_var"] = round(float(np.std(f0)), 4)
 
             #music_found = self.detect_music_presence(y, sr)
             #audio_features[f_name]["music_present"] = round(float(music_found), 4)
@@ -80,5 +80,3 @@ audio_file_path = "data/videos_30sec/audios"
 af = AudioFeatures(audio_file_path=audio_file_path)
 af_set = af.extract_audio_features()
 json.dump(af_set, open('data/videos_30sec/audio_features.json', 'w'), indent=4, default=convert)
-
-
