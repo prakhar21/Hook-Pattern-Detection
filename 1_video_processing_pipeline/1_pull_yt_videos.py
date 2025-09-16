@@ -2,6 +2,7 @@ import os
 import json
 import re
 import subprocess
+from datetime import datetime, timezone
 
 try:
     from pytubefix import YouTube
@@ -151,7 +152,7 @@ class YTDownloader:
         for k, v in video_details.items():
             try:
                 response = self.yt_svc.videos().list(
-                            part="statistics, contentDetails",
+                            part="statistics, contentDetails, snippet",
                             id=k
                         ).execute()
             except:
@@ -164,6 +165,10 @@ class YTDownloader:
                 like_cnt = int(video_data["statistics"].get("likeCount", 0))
                 comment_cnt = int(video_data["statistics"].get("commentCount", 0))
                 duration_iso = video_data['contentDetails'].get('duration', 0)
+                published_at = video_data["snippet"]["publishedAt"]
+                published_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+                now = datetime.now(timezone.utc)
+                age_days = (now - published_dt).days
                 if duration_iso:
                     duration_sec = self._iso8601_duration_to_seconds(duration_iso)
                 else:
@@ -177,6 +182,7 @@ class YTDownloader:
             video_details[k]['like_per_view'] = round(like_cnt/view_cnt,4) if view_cnt else 0
             video_details[k]['comment_per_view'] = round(comment_cnt/view_cnt,4) if view_cnt else 0
             video_details[k]['duration_sec'] = round(duration_sec,4) if duration_sec else 0
+            video_details[k]['video_age'] = age_days
             
             
             counter += 1
@@ -187,8 +193,8 @@ class YTDownloader:
             
     
 
-api_key = "<INSERT YT API KEY>"
-query = "business podcasts"
+api_key = ""
+query = "Artificial Intelligence tech podcasts"
 video_count = 1000
 
 yt_downloader = YTDownloader(
@@ -209,7 +215,4 @@ json.dump(successful_videos, open('data/videos_30sec/successful_videos.json', 'w
 
 #STEP 4 :: Download successful videos in a folder and save meta-data details in JSON
 yt_downloader.download_video(successful_videos)
-
-
-
 
