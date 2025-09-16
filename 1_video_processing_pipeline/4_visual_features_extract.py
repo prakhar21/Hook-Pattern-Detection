@@ -22,14 +22,14 @@ try:
     import easyocr
 except ImportError:
     print ("Missing 'easyocr'. Please install...\n")
-    raise ("pip install easyocr-1.7.2")
+    raise ("pip install easyocr==1.7.2")
 
 
 class VisualFeatures:
     
     def __init__(self, video_path):
         self.video_path = video_path
-        self.videos = glob.glob(self.video_path+'/*')
+        self.videos = glob.glob(self.video_path+'/*.mp4')
     
     
     def detect_cuts(self, video:str, threshold:float=30.0):
