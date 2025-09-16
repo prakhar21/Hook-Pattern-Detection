@@ -81,6 +81,6 @@ for i, label in enumerate(labels):
     label_videos_map[int(label)].append(idx_video_id_map[i])
 
 
-## RUNNING CLUSTER EXPLANABILITY
+## SAVING CLUSTERS
 json.dump(label_videos_map, open('video_clustering.json', 'w'), indent=4)
 
