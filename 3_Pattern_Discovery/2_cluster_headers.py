@@ -47,7 +47,7 @@ for k, v in label_videos_map.items():
     for i in v:
         text_segs.append(' '.join(textual_features[i]['text'].split()[:20]))
     hook = assign_hook_cluster(text_segs)
-    header_elements[i] = hook
+    header_elements[k] = hook
 
 json.dump(header_elements, open('hook_names_clusters.json', 'w'), indent=4)
     
