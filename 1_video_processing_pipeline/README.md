@@ -2,7 +2,9 @@
 ## Deliverable #1 (Video Processing Pipeline)
  - **Download and extract first 30 seconds from 200+ podcast videos** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/1_video_processing_pipeline/1_pull_yt_videos.py)
     1. Used YT Data v3 API to fetch the videos based on keyword, language, region, views, and more. The API returns maximum 50 response in 1 API pull, leveraged pagination to iterate through the pages.
-    2. First 30 seconds of videos along with their meta-data for videos with more than 1M views that are greater than 60 sec and less then 2 hr duration are dowloaded using Moviepy. 
+    2. Fetched data for 'Artificial Intelligence podcast' that were in 'en' from 'US', order by view count, and resolution 480p.
+    3. First 30 seconds of videos along with their meta-data for videos with more than 1M views that are greater than 60 sec and less then 2 hr duration are dowloaded using Moviepy.
+    4. Extracted details like views, likes, comments, video age, video duration, like per view, comment per view.
  - **Generate transcripts using Whisper or similar** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/1_video_processing_pipeline/2_speech_to_text.py)
     1. Used Whisper tiny.en model to transcribe the audio of each 30 sec video clips
  - **Measure audio features: energy levels, speaking pace, music presence** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/1_video_processing_pipeline/3_audio_feature_extract.py)
