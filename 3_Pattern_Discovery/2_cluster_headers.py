@@ -22,7 +22,7 @@ hook_patterns = [
 def assign_hook_cluster(cluster_elements):
     prompt = f"""
     We have podcast video hook patterns: {hook_patterns}.
-    Given the following cluster elements: "{cluster_elements}"
+    Given the following cluster elements: {cluster_elements}
     Assign the best matching hook (choose ONE from the list).
     Return only the hook pattern name, no explanation.
     """
