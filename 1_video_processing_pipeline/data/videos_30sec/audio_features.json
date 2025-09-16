@@ -1,0 +1,412 @@
+{
+    "t0U3UREdjmo": {
+        "intensity": {
+            "mean": 0.0609,
+            "max": 0.2749,
+            "min": 0.0006,
+            "variance": 0.0515
+        },
+        "speech_rate": 98.6842,
+        "pitch_var": 44.7082
+    },
+    "0-FUhQKe-eU": {
+        "intensity": {
+            "mean": 0.0769,
+            "max": 0.1426,
+            "min": 0.0032,
+            "variance": 0.0259
+        },
+        "speech_rate": 104.1667,
+        "pitch_var": 47.1987
+    },
+    "bjnUJq5OONM": {
+        "intensity": {
+            "mean": 0.0511,
+            "max": 0.191,
+            "min": 0.0,
+            "variance": 0.0398
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 46.9002
+    },
+    "chfj7RHA5vM": {
+        "intensity": {
+            "mean": 0.0475,
+            "max": 0.1908,
+            "min": 0.0,
+            "variance": 0.0327
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 48.2854
+    },
+    "MTJZpO3bTpg": {
+        "intensity": {
+            "mean": 0.0277,
+            "max": 0.1908,
+            "min": 0.0,
+            "variance": 0.0305
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 54.6666
+    },
+    "GJeFoEw9x0M": {
+        "intensity": {
+            "mean": 0.0212,
+            "max": 0.096,
+            "min": 0.0,
+            "variance": 0.0171
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 63.2275
+    },
+    "hmtuvNfytjM": {
+        "intensity": {
+            "mean": 0.1076,
+            "max": 0.3629,
+            "min": 0.0003,
+            "variance": 0.0756
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 64.7246
+    },
+    "ua4rYsMdC4U": {
+        "intensity": {
+            "mean": 0.0332,
+            "max": 0.0719,
+            "min": 0.0,
+            "variance": 0.0172
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 71.3742
+    },
+    "XfW5KNhyupE": {
+        "intensity": {
+            "mean": 0.0175,
+            "max": 0.0888,
+            "min": 0.0,
+            "variance": 0.0132
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 56.3848
+    },
+    "djAAjjXkj8I": {
+        "intensity": {
+            "mean": 0.2058,
+            "max": 0.4904,
+            "min": 0.0021,
+            "variance": 0.1245
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 56.6528
+    },
+    "KKNCiRWd_j0": {
+        "intensity": {
+            "mean": 0.0879,
+            "max": 0.2288,
+            "min": 0.0,
+            "variance": 0.0668
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 69.0077
+    },
+    "1TWpaGgnpjI": {
+        "intensity": {
+            "mean": 0.0824,
+            "max": 0.352,
+            "min": 0.0183,
+            "variance": 0.044
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 37.2306
+    },
+    "5wXlmlIXJOI": {
+        "intensity": {
+            "mean": 0.1111,
+            "max": 0.2821,
+            "min": 0.0007,
+            "variance": 0.051
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 47.5047
+    },
+    "UclrVWafRAI": {
+        "intensity": {
+            "mean": 0.111,
+            "max": 0.268,
+            "min": 0.0,
+            "variance": 0.0618
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 53.8561
+    },
+    "7ARBJQn6QkM": {
+        "intensity": {
+            "mean": 0.0924,
+            "max": 0.2104,
+            "min": 0.0009,
+            "variance": 0.0446
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 56.3208
+    },
+    "rVlmbhwn0RM": {
+        "intensity": {
+            "mean": 0.0939,
+            "max": 0.4244,
+            "min": 0.0,
+            "variance": 0.0602
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 39.1306
+    },
+    "5MWT_doo68k": {
+        "intensity": {
+            "mean": 0.0782,
+            "max": 0.2389,
+            "min": 0.0,
+            "variance": 0.0626
+        },
+        "speech_rate": 104.1667,
+        "pitch_var": 47.5986
+    },
+    "giT0ytynSqg": {
+        "intensity": {
+            "mean": 0.0599,
+            "max": 0.1612,
+            "min": 0.0054,
+            "variance": 0.0311
+        },
+        "speech_rate": 104.1667,
+        "pitch_var": 35.2315
+    },
+    "8enXRDlWguU": {
+        "intensity": {
+            "mean": 0.0774,
+            "max": 0.3471,
+            "min": 0.0,
+            "variance": 0.0543
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 52.3446
+    },
+    "4guxBkq-bwo": {
+        "intensity": {
+            "mean": 0.128,
+            "max": 0.3743,
+            "min": 0.001,
+            "variance": 0.0939
+        },
+        "speech_rate": 110.2941,
+        "pitch_var": 66.7881
+    },
+    "Oa0ZHfcalCM": {
+        "intensity": {
+            "mean": 0.0435,
+            "max": 0.1646,
+            "min": 0.0,
+            "variance": 0.0317
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 85.1327
+    },
+    "bk-nQ7HF6k4": {
+        "intensity": {
+            "mean": 0.0531,
+            "max": 0.1903,
+            "min": 0.0,
+            "variance": 0.0462
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 56.8126
+    },
+    "nVyD6THcvDQ": {
+        "intensity": {
+            "mean": 0.1156,
+            "max": 0.3507,
+            "min": 0.0002,
+            "variance": 0.0752
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 65.9979
+    },
+    "id4YRO7G0wE": {
+        "intensity": {
+            "mean": 0.0895,
+            "max": 0.2368,
+            "min": 0.0,
+            "variance": 0.066
+        },
+        "speech_rate": 125.0,
+        "pitch_var": 52.5283
+    },
+    "oX7OduG1YmI": {
+        "intensity": {
+            "mean": 0.0997,
+            "max": 0.3408,
+            "min": 0.0102,
+            "variance": 0.0601
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 64.6437
+    },
+    "aZ5EsdnpLMI": {
+        "intensity": {
+            "mean": 0.0341,
+            "max": 0.1487,
+            "min": 0.0,
+            "variance": 0.0354
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 85.7963
+    },
+    "BYizgB2FcAQ": {
+        "intensity": {
+            "mean": 0.0385,
+            "max": 0.1666,
+            "min": 0.0001,
+            "variance": 0.0306
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 62.289
+    },
+    "GhIJs4zbH0o": {
+        "intensity": {
+            "mean": 0.0638,
+            "max": 0.1267,
+            "min": 0.0002,
+            "variance": 0.0233
+        },
+        "speech_rate": 125.0,
+        "pitch_var": 40.4794
+    },
+    "Zsh6VgcYCdI": {
+        "intensity": {
+            "mean": 0.0209,
+            "max": 0.1115,
+            "min": 0.0,
+            "variance": 0.0212
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 87.8977
+    },
+    "owN6AFiM0cY": {
+        "intensity": {
+            "mean": 0.1071,
+            "max": 0.1967,
+            "min": 0.0336,
+            "variance": 0.0264
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 44.5349
+    },
+    "79-bApI3GIU": {
+        "intensity": {
+            "mean": 0.0472,
+            "max": 0.1536,
+            "min": 0.0001,
+            "variance": 0.0324
+        },
+        "speech_rate": 144.2308,
+        "pitch_var": 49.5137
+    },
+    "3WNI0EaK1Fw": {
+        "intensity": {
+            "mean": 0.0573,
+            "max": 0.2114,
+            "min": 0.0014,
+            "variance": 0.0324
+        },
+        "speech_rate": 133.9286,
+        "pitch_var": 61.1966
+    },
+    "J3mfInWmHFw": {
+        "intensity": {
+            "mean": 0.1439,
+            "max": 0.481,
+            "min": 0.0018,
+            "variance": 0.0885
+        },
+        "speech_rate": 125.0,
+        "pitch_var": 70.2265
+    },
+    "jnnj6Fd2ym0": {
+        "intensity": {
+            "mean": 0.0767,
+            "max": 0.3769,
+            "min": 0.0,
+            "variance": 0.0678
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 63.8272
+    },
+    "KrRD7r7y7NY": {
+        "intensity": {
+            "mean": 0.0515,
+            "max": 0.2174,
+            "min": 0.0,
+            "variance": 0.0396
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 54.5958
+    },
+    "0HnMzuSYzwI": {
+        "intensity": {
+            "mean": 0.1711,
+            "max": 0.4022,
+            "min": 0.0087,
+            "variance": 0.0723
+        },
+        "speech_rate": 125.0,
+        "pitch_var": 63.3086
+    },
+    "N5VPBeSysHw": {
+        "intensity": {
+            "mean": 0.0357,
+            "max": 0.126,
+            "min": 0.0019,
+            "variance": 0.0265
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 61.2563
+    },
+    "_6R7Ym6Vy_I": {
+        "intensity": {
+            "mean": 0.0658,
+            "max": 0.2079,
+            "min": 0.0001,
+            "variance": 0.0467
+        },
+        "speech_rate": 104.1667,
+        "pitch_var": 87.3972
+    },
+    "DEvMtZLTT8c": {
+        "intensity": {
+            "mean": 0.086,
+            "max": 0.3993,
+            "min": 0.0006,
+            "variance": 0.0642
+        },
+        "speech_rate": 117.1875,
+        "pitch_var": 49.2214
+    },
+    "_jl64f-821o": {
+        "intensity": {
+            "mean": 0.0991,
+            "max": 0.2255,
+            "min": 0.0,
+            "variance": 0.0435
+        },
+        "speech_rate": 125.0,
+        "pitch_var": 59.6554
+    },
+    "9GPK73POGeo": {
+        "intensity": {
+            "mean": 0.0961,
+            "max": 0.3004,
+            "min": 0.0,
+            "variance": 0.073
+        },
+        "speech_rate": 93.75,
+        "pitch_var": 44.6671
+    }
+}
