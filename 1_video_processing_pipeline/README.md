@@ -1,8 +1,5 @@
-# [Analysing Youtube Podcast Hooks](https://docs.google.com/document/d/1XlqZfPvA3VO_mFgSoBKqOb-UdTC29Cg5g62UtHNj1TQ/edit?tab=t.0)
-_Analyze the first 30 seconds of successful videos to identify hook patterns that drive retention_
-- Successful video has following attributes ; >=1M views AND duration >60 sec & <=7200 sec (2hr). 
 
-#### Deliverable #1 (Video Processing Pipeline)
+## Deliverable #1 (Video Processing Pipeline)
  - **Download and extract first 30 seconds from 200+ podcast videos** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/1_video_processing_pipeline/1_pull_yt_videos.py)
     1. Used YT Data v3 API to fetch the videos based on keyword, language, region, views, and more. The API returns maximum 50 response in 1 API pull, leveraged pagination to iterate through the pages.
     2. First 30 seconds of videos along with their meta-data for videos with more than 1M views that are greater than 60 sec and less then 2 hr duration are dowloaded using Moviepy. 
