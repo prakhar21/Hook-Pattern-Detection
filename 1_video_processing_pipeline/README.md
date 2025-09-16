@@ -25,3 +25,9 @@ __Possible Enhancements that could have been done in Deliverable #1__
 5. Understanding Signal-to-noise ratio. Low SNR makes it hard to listen.
 
 
+### Folder details
+1. data/videos_30sec/audio_features.json - Audio features JSON for videos
+2. data/videos_30sec/successful_videos.json - Successful videos and meta data details JSON for videos
+3. data/videos_30sec/visual_features.json - Visual features JSON for videos
+4. data/videos_30sec/audios/ - Audio snippets
+5. data/videos_30sec/videos/ - Video snippets
