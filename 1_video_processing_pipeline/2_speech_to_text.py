@@ -21,7 +21,7 @@ class SpeechToText:
         self.model = whisper.load_model("tiny.en", download_root=self.model_path)
         print ('Whisper model loaded successfuly!')
         self.video_path = video_path
-        self.video_files = glob.glob(os.path.join(video_path,'*'))
+        self.video_files = glob.glob(os.path.join(video_path,'*.mp4'))
         print (self.video_files)
     
     
@@ -66,4 +66,3 @@ s2t = SpeechToText(video_path)
 s2t.extract_audio(audio_output_path)
 audio_transcription = s2t.speech_to_text(audio_output_path)
 json.dump(audio_transcription, open('data/videos_30sec/audio_transcription.json', 'w'), indent=4)
-
