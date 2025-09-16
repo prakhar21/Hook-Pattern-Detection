@@ -5,7 +5,7 @@
 2. Text embeddings are extracted based on first N words (**N=20**) from the transcript using the sentence-transformer model.
 3. Determine the best K for K-means with Silhouette score and K plot. Chosen K is the one, where Silhouette is maximum. Plot attached as **Choosing_K.png** - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/3_Pattern_Discovery/1_cluster.py)
 4. **Best K determined = 5** Refer **video_clustering.json** for cluster centre and elements.
-5. Each cluster elements list is passed to GPT-5 to generate Hook type from list of predefined hooks - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/3_Pattern_Discovery/2_cluster_headers.py)
+5. Each cluster elements list (containing first 20 words from transcript of these videos) is passed to GPT-5 to generate Hook type from list of predefined hooks - [code](https://github.com/prakhar21/Hook-Pattern-Detection/blob/main/3_Pattern_Discovery/2_cluster_headers.py)
 
 
 Generating Header for Cluster #4 - **"Shock Value / Clickbait"**
